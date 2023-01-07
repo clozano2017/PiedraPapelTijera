@@ -33,3 +33,5 @@ while True:
     print("Perdiste.")
 
 print("¡Gracias por jugar!")
+#Carlos Eduardo Lozano miranda 
+# 3162950230
